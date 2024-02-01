@@ -1,3 +1,4 @@
+![Figure-1_-Y23Q4-Magic-Quadrant-for-Enterprise-Low-Code-Application-Platformstarget (3)](https://github.com/Hazzaawaz/Hazzaawaz/assets/88983951/ad300e37-5af5-4c8b-8ccc-acac3bde5305)
 - 👋 Hi, I’m @Hazzaawaz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,3 +9,4 @@
 Hazzaawaz/Hazzaawaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+6
